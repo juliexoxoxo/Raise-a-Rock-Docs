@@ -2,6 +2,7 @@
 
 Current suggested structure, will work on this after the website-game is coded
 
+```
 raise-a-rock-docs/
 │
 ├── staff/                                  # discord login required to view
@@ -29,3 +30,4 @@ raise-a-rock-docs/
 ├── classes.html                            # all 6 classes, dual class system, evolution trees
 ├── events.html                             # naming ceremony, invasion, storm, famine explained
 └── world.html                              # territory system, hex map, fog of war, account slots
+```
